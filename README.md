@@ -40,6 +40,22 @@ Dataset: https://www.kaggle.com/competitions/state-farm-distracted-driver-detect
 
 The dataset is not included in this repository.
 
+
+## 📈 Results & Visualizations
+
+### Model Performance Comparison
+![Model Comparison](results/Model_comparision.png)
+
+### Confusion Matrix
+![Confusion Matrix](results/confusion_matrix.png)
+
+### Training Performance
+![Training Curves](results/training_curves.png)
+
+### Prediction Examples
+![Prediction Examples](results/prediction_examples.png)
+
+
 ## ▶️ How to Run
 
 1. Clone this repository.
