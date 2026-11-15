@@ -1,0 +1,26 @@
+
+# Dataset
+data/
+dataset/
+*.zip
+
+# Model files
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
